@@ -1,6 +1,5 @@
-# Desafio-GuitHub-Primeiro-Repositorio
-Repositório  criad para  Estudo no Bootcamp  Amdocs
+# Desafio-GuitHub-Primeiro-Repositório
+Repositório  criado para  Estudo no Bootcamp  Amdocs
 
 Desafio de Projeto Guit/Guithub
-
 

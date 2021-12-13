@@ -1,0 +1,6 @@
+Git clone - faz uma replica do repositorio no computador
+
+Git status - informa situação atual do repositorio 
+
+git add . ou -A para commitar as alterações em algum arquivo que foi alterado 
+
